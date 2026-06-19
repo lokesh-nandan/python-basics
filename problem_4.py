@@ -3,4 +3,4 @@ s=0
 for i in a:
     if i in "aeiouAEIOU":
         s+=1
-print("Number of vowels in the string:", s)#vowel counter
+print("Number of vowels in the string:", s)
