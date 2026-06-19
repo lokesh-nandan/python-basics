@@ -12,7 +12,6 @@ for k in range(len(l)):
     l[k]=l[k].lower()
 for n in range(len(m)):
     m[n]=m[n].lower()
-    l.sort()
 l.sort()
 m.sort()
 if l==m:
