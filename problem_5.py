@@ -17,4 +17,4 @@ m.sort()
 if l==m:
     print("The two strings are anagrams.")
 else:
-    print("The two strings are not anagrams.")
+    print("The two strings are not anagrams.")#anagram checker
